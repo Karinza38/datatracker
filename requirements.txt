@@ -79,3 +79,4 @@ urllib3>=2
 weasyprint>=59
 xml2rfc[pdf]>=3.23.0
 xym>=0.6,<1.0
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
